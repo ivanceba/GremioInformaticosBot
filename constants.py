@@ -2,7 +2,7 @@ import os
 
 import sys
 
-TOKEN = "481450050:AAH4rF0AbOdy9_U3Rx_eXpFeLwk_qGp98X0"
+TOKEN = "SECRET_TOKEN"
 
 HELP = """\
 Puedes usar los siguientes comandos:
